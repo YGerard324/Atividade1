@@ -53,11 +53,11 @@ section {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 0; /* Remove o padding da lista */
+    padding: 0;
 }
 
 #menu ul li {
-    width: 30%;
+    width: 40%;
     padding: 5%;
     text-align: center;
 }
